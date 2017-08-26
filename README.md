@@ -10,4 +10,6 @@ Si propone come alternativa a *REST* (**RE**presentational **S**tate **T**ransfe
 
 ### Server GraphQL
 
+### Backend GraphQL
+
 ## FAQ
