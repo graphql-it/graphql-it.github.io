@@ -12,4 +12,12 @@ Si propone come alternativa a *REST* (**RE**presentational **S**tate **T**ransfe
 
 ### Backend GraphQL
 
+Esistono diversi servizi online che forniscono un backend GraphQL come servizio (potremmo chiamarlo GraphQL as a Service). Queste piattaforme generalmente mettono a disposizione dei tool grafici per la creazione e gestione dei database, fornendo inoltre sistemi di autenticazione / controllo dei permessi di accesso automatizzati. Spesso é inoltre possibile integrare servizi esterni di terze parti per aumentare ulteriormente le funzionalità. In questo modo ci si deve preoccupare solamente di definire la struttura dei dati da memorizzare e sviluppare la webapp utilizzando un client GraphQL. La gestione del server sarà invece del tutto automatizzata.
+
+Alcuni dei servizi che forniscono piani di sviluppo gratuiti sono:
+
+* [Grapcool](https://www.graph.cool/)
+* [Scaphold](https://scaphold.io/)
+* [Reindex](https://www.reindex.io/baas/)
+
 ## FAQ
